@@ -1,0 +1,14 @@
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/bin/Release/net10.0/win-x64/createprocess.exe
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/bin/Release/net10.0/win-x64/createprocess.deps.json
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/bin/Release/net10.0/win-x64/createprocess.runtimeconfig.json
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/bin/Release/net10.0/win-x64/createprocess.dll
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/bin/Release/net10.0/win-x64/createprocess.pdb
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/obj/Release/net10.0/win-x64/createprocess.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/obj/Release/net10.0/win-x64/createprocess.AssemblyInfoInputs.cache
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/obj/Release/net10.0/win-x64/createprocess.AssemblyInfo.cs
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/obj/Release/net10.0/win-x64/createprocess.csproj.CoreCompileInputs.cache
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/obj/Release/net10.0/win-x64/createprocess.dll
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/obj/Release/net10.0/win-x64/refint/createprocess.dll
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/obj/Release/net10.0/win-x64/createprocess.pdb
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/obj/Release/net10.0/win-x64/createprocess.genruntimeconfig.cache
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/obj/Release/net10.0/win-x64/ref/createprocess.dll

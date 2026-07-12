@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aFDlt/Vd/d8=",
+  "success": true,
+  "projectFilePath": "/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/createprocess.csproj",
+  "expectedPackageFiles": [
+    "/home/admin/.nuget/packages/microsoft.net.illink.tasks/10.0.9/microsoft.net.illink.tasks.10.0.9.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.netcore.app.host.win-x64/10.0.9/microsoft.netcore.app.host.win-x64.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

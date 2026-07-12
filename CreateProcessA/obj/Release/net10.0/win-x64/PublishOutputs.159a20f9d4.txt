@@ -1,0 +1,2 @@
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/bin/Release/net10.0/win-x64/publish/createprocess.pdb
+/home/admin/Documents/Workspace/Projects_and_codes/Win32API/Basic_APIs/CreateProcessA/bin/Release/net10.0/win-x64/publish/createprocess.exe
