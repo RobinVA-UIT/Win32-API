@@ -28,6 +28,7 @@ Copy-paste:
     <Nullable>disable</Nullable>
     
     <PublishSingleFile>true</PublishSingleFile>
+    <!-- Add <SelfContained>true</SelfContained> if the targeted machine does not have .NET Runtime -->
   </PropertyGroup>
 </Project>
 
