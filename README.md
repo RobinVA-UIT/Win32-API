@@ -1,2 +1,2 @@
 # Win32-API
-Practicing writing P/Invoke codes in C#
+Practice using Win32 API
